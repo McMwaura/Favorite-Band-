@@ -3,5 +3,17 @@ body{
 }
 img {
 display: block;
-margin: 0 auto; 
+margin: 0 auto;
+}
+.sidebar{
+  width: 35%;
+  float: right;
+  background-color: #e26344;
+}
+h1{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
 }
