@@ -6,14 +6,13 @@ display: block;
 margin: 0 auto;
 }
 .sidebar{
-  width: 35%;
+  width: 20%;
   float: right;
   background-color: #e26344;
 }
 h1{
   text-align: center;
 }
-
 h3{
   text-align: center;
 }
