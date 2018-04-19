@@ -45,3 +45,8 @@ li{
   text-align: justify;
   font-weight: 300;
 }
+.pics img{
+  border: 3px;
+  border-color: white;
+  border-style: solid;
+}
