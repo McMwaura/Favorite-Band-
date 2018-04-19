@@ -9,6 +9,8 @@ margin: 0 auto;
   width: 15%;
   float: right;
   background-color: #e26344;
+  padding:20px;
+  text-align: left;
 }
 h1{
   text-align: center;
