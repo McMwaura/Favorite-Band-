@@ -4,10 +4,7 @@ body{
   background-repeat:no-repeat;
    background-size:cover;
 }
-img {
-display: block;
-margin: 30 auto;
-}
+
 .sidebar{
   width: 15%;
   float: right;
@@ -37,8 +34,8 @@ li{
   font-size: 14px;
 }
 .about{
+  /* float: left; */
   width: 650px;
-  float: left;
   background-color: #ef998b;
   padding-right: 20px;
   padding-left: 20px;
@@ -48,9 +45,11 @@ li{
   text-align: justify;
   font-weight: 300;
 }
+
 .pics img{
+  height: 204px;
   border: 3px;
   border-color: white;
   border-style: solid;
-  padding-left: 4px;
+  margin-left: 4px;
 }
